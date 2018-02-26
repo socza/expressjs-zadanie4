@@ -1,0 +1,26 @@
+body {
+	background-color: #a041f4;
+}
+h1 {
+	font-size: 35px;
+	color: #e8dfde;
+}
+p {
+	font-size: 20px;
+	color: #e8dfde;
+}
+button {
+	border-radius: 5px;
+	padding: 10px;
+	font-size: 16px;
+	background-color: #2F4F4F;
+	color: #e8dfde;
+}
+button:hover {
+	color: #d7e026;
+}
+.container {
+	width: 400px;
+	text-align: center;
+	margin: 0 auto;
+}
